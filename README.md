@@ -1,2 +1,2 @@
-# fast_api_nuitka_docker
+# Fast api nuitka docker
 Create executable for fastapi using docker.
